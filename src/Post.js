@@ -64,10 +64,7 @@ const Post = () => {
                            
                 <div class="">
                     <Link to="./Product.jsx">
-                <button  type="submit"
-                    
-                   
-                >
+                <button  type="submit">
                    Post
                 </button>
                </Link>
